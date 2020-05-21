@@ -23,6 +23,9 @@
 
 ## The Equation (Latex)
 
+![image](https://github.com/Mingyumaz/light123/blob/master/Light/README_The_Equation1.png)
+
+
 ### Fun(CaRDir)
 If the incident light is **vertical or nearly vertical** to the plane, we take $\vec{r} = -\vec{i}$
 And for other cases we use the following formula to calculate: 
