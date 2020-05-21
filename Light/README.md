@@ -1,13 +1,13 @@
 ## Introduction
 **Class**
 - **Light** 
---**One point in Light**
---**The direction vector**
---**The normalized direction vector**
+ -**One point in Light**
+ -**The direction vector**
+ -**The normalized direction vector**
 - **Plane**
---**One point in Plane**
---**The normal vector**
---**The normalized normal vector**
+ -**One point in Plane**
+ -**The normal vector**
+ -**The normalized normal vector**
 
 **Function**
 - **Normalized**: put in the vector [x,y,z] and normalize it
